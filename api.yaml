@@ -1,4 +1,0 @@
-typeofscan: "api"
-target: "https://www.example.com/graphql"
-format: "graphql"
-options: ""
